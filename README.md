@@ -4,7 +4,7 @@
 - 👀 I’m interested in Coding, Problem Solving and Front-end Web Development.
 - 💞️ I’m currently looking for Intership Opportunities
 - I have been a part of Microsoft Engage'22 and Girl Script Summer of Code(GSSOC'22)
-- 📫 you can reach me through Linkdin: https://www.linkedin.com/in/aparna-mittal-99a986214 
+- 📫 you can reach me through Linkdin: https://www.linkedin.com/in/aparna-m-99a986214
 
 # Langaages:
 ![image](https://user-images.githubusercontent.com/100208233/190482542-47545ad9-3312-4be9-97de-eeb8a67001cf.png)
