@@ -3,7 +3,7 @@
 - 👀 I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. 
 - 👀 I’m interested in Coding, Problem Solving and Front-end Web Development.
 - 💞️ I’m currently looking for Intership Opportunities
-- I have been a part of Microsoft Engage'22 and Girl Script Summer of Code(GSSOC'22)
+- I have been a part of Microsoft Engage'22 
 - 📫 you can reach me through Linkdin: https://www.linkedin.com/in/aparna-m-99a986214
 
 # Langaages:
