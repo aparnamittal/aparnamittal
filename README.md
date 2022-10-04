@@ -6,6 +6,8 @@
 - I have been a part of Microsoft Engage'22 
 - 📫 you can reach me through Linkdin: https://www.linkedin.com/in/aparna-m-99a986214
 
+<a href="https://www.linkedin.com/in/aparna-m-99a986214" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
 # Langaages:
 <a><img alt="HTML" src="https://camo.githubusercontent.com/b4c648ad32f8f9f7c328a4dd59b5df0eb2a4e2623095e31d059f026979129491/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
 <a><img alt="CSS" src="https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
