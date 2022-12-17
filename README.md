@@ -3,11 +3,11 @@
 - 👀 I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. 
 - 👀 I’m interested in Coding, Problem Solving and Front-end Web Development.
 - 💞️ I’m currently looking for Intership Opportunities
-- I have been a part of Microsoft Engage'22 
-- I have also contributed to various opensource programs 
+- I have been a part of <b>Microsoft Engage'22</b> 
+- I have also contributed to various <b>opensource programs:</b> 
   - Girl Script Summer of Code 22 (GSSOC)
   - HACKTOBERFEST '22
-- I have also done 1 month Web Development and Design Internship at Oasis Infobyte.
+- I have also done 1 month <b>Web Development and Design Internship</b> at Oasis Infobyte.
   - Developed Landing Page , Portfolio Website and Temperature Converter   
 
 
@@ -26,7 +26,7 @@
 <a><img alt="C++" src="https://camo.githubusercontent.com/f65125ba5a7d4a77aaf04f1181c684f6f2666db819708b531e3e46d3688ff14e/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432b2b2d3943303333412e7376673f6c6f676f3d63707032266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white" style="max-width: 100%;"></a>
 <a><img alt="Python" src="https://camo.githubusercontent.com/808dfd4514d73d808f2a42e033ec59d350a25356be62824be52e3b258afeb5e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534432e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-14354C.svg?logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
 
-# HACKTOBERFEST Batch's:
+# Hacktoberfest Batch's:
 [![@aparna's Holopin board](https://holopin.me/aparna)](https://holopin.io/@aparna)
 
 # Projects:
