@@ -29,6 +29,9 @@
 # Hacktoberfest Batch's:
 [![@aparna's Holopin board](https://holopin.me/aparna)](https://holopin.io/@aparna)
 
+# GitHub stats:
+<a href="https://quine.sh/profile/Aparna"><img src="https://stats.quine.sh/Aparna/github?simple=true" alt="Aparna's GitHub stats" width="840px"></a>
+
 # Projects:
 1. E-Commerce Website: https://github.com/aparnamittal/E-Commerce-website 
 2. Real time Weather application:https://github.com/aparnamittal/Weather-Appliction 
