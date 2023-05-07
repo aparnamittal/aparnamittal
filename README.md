@@ -36,8 +36,10 @@
 
 <h3 align="left">Projects:</h3>
 
-|Command | Description |
-| --- | --- |
-| E-Commerce Website | https://github.com/aparnamittal/E-Commerce-website |
-| Real time Weather application | https://github.com/aparnamittal/Weather-Appliction |
-| Microsoft Engage project | https://github.com/aparnamittal/Microsoft-engage-22 |
+|Command | Description | Tech Stack |
+| --- | --- | --- |
+| My Cafe | https://github.com/aparnamittal/E-Commerce-website |HTML,CSS,Bootstrap|
+| Real time Weather application | https://github.com/aparnamittal/Weather-Appliction |HTML,CSS,API,Javascript|
+| Microsoft Engage project | https://github.com/aparnamittal/Microsoft-engage-22 |Python,PowerBi|
+|Home-Automation-Project|https://github.com/aparnamittal/Home-Automation-Project|ESP32,Aurdiuno IDE|
+|Todo List|https://github.com/aparnamittal/Todo-List|React.js|
