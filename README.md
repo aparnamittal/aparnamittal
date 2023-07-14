@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Aparna Mittal</h1>
-<h3 align="center"> I am a pre final year student doing B.Tech in Electronics and Communication Engineering</h3>
+<h3 align="center"> I am a Final year student doing B.Tech in Electronics and Communication Engineering</h3>
 
-- 🔭 I’m currently working on **Problem Solving and development Skills.**
+- 🔭 I’m currently working on **Problem Solving and Development Skills.**
 
-- 🌱 I’m currently looking for **Internship Opportunities**
+- 🌱 I’m currently looking for **Internship and full time job opportunities**
 
 - 👯 I have been a part of **Microsoft Engage Mentee'22** 
 - **Open Source Programs such as : Girl Script Summer of Code 22 (GSSOC) , HACKTOBERFEST '22**
@@ -43,3 +43,5 @@
 | Microsoft Engage project | https://github.com/aparnamittal/Microsoft-engage-22 |Python,PowerBi|
 |Home-Automation-Project|https://github.com/aparnamittal/Home-Automation-Project|ESP32,Aurdiuno IDE|
 |Todo List|https://github.com/aparnamittal/Todo-List|React.js|
+|Book store|https://github.com/aparnamittal/Book-store/tree/main| MERN Stack|
+|Authentication Application|https://github.com/aparnamittal/Authentication-Application| MERN stack|
