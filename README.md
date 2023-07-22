@@ -36,7 +36,7 @@
 
 <h3 align="left">Projects:</h3>
 
-|Command | Description | Tech Stack |
+|Project Name| Description | Tech Stack |
 | --- | --- | --- |
 | My Cafe | https://github.com/aparnamittal/E-Commerce-website |HTML,CSS,Bootstrap|
 | Real time Weather application | https://github.com/aparnamittal/Weather-Appliction |HTML,CSS,API,Javascript|
@@ -45,3 +45,4 @@
 |Todo List|https://github.com/aparnamittal/Todo-List|React.js|
 |Book store|https://github.com/aparnamittal/Book-store/tree/main| MERN Stack|
 |Authentication Application|https://github.com/aparnamittal/Authentication-Application| MERN stack|
+|Blog Website | https://github.com/aparnamittal/Blog-Website | React.js|
