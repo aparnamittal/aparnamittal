@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Problem Solving and Development Skills.**
 
 - 🌱 I’m currently looking for **Internship and full time job opportunities**
-
+- 👯 I have done an internship at **DRDO (Defence Research and Development Organisation)**
 - 👯 I have been a part of **Microsoft Engage Mentee'22** 
 - **Open Source Programs such as : Girl Script Summer of Code 22 (GSSOC) , HACKTOBERFEST '22**
 
@@ -46,3 +46,5 @@
 |Book store|https://github.com/aparnamittal/Book-store/tree/main| MERN Stack|
 |Authentication Application|https://github.com/aparnamittal/Authentication-Application| MERN stack|
 |Blog Website | https://github.com/aparnamittal/Blog-Website | React.js|
+|Heart-Disease-Prediction| https://github.com/aparnamittal/Heart-Disease-Prediction|Machine Learning|
+|Loan-Approval-Prediction| https://github.com/aparnamittal/Loan-Approval-Prediction|Machine Learning|
