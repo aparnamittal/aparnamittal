@@ -5,11 +5,9 @@
 - 🔭 I’m currently working on **Problem Solving and Development Skills.**
 
 - 🌱 I’m currently looking for **Internship and full time job opportunities**
-- 👯 I have done an internship at **DRDO (Defence Research and Development Organisation)**
+- 📄 I have done an internship at **DRDO (Defence Research and Development Organisation)**
 - 👯 I have been a part of **Microsoft Engage Mentee'22** 
 - **Open Source Programs such as : Girl Script Summer of Code 22 (GSSOC) , HACKTOBERFEST '22**
-
-- 📄 Know about my experiences : I have done 1 month internship at Oasis Infobyte as Web Development and Design Intern
 - I am seeking opportunities that can help me in enhancing my skills, strengthen my knowledge, and realize my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.
 
 <h3 align="left">Connect with me:</h3>
